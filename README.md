@@ -1,10 +1,10 @@
 
-#CONSTRAINTS
+# CONSTRAINTS
 
 username and password must be alpha numerical <br>
-username length must be 3-20 long
-password length must be 7-30 long
-name and surname fields can be empty but maximum length is 30
+username length must be 3-20 long <br>
+password length must be 7-30 long <br>
+name and surname fields can be empty but maximum length is 30 <br>
 
 
 
