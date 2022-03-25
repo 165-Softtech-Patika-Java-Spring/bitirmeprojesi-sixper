@@ -6,6 +6,24 @@ username length must be 3-20 long <br>
 password length must be 7-30 long <br>
 name and surname fields can be empty but maximum length is 30 <br>
 
+# EXCEPTIONS
+
+All exceptions defined and handled in gen package. Exceptions encapsulated in a generic response form.
+
+# RESPONSE
+
+There is a RestResponse model. Succes or fail all responses encapsulated with RestResponse model defined in gen package
+
+# API Documantation
+
+Swagger preferred
+
+# End Points
+
+There are 2 entities User and Product. Update,get,delete,post can be performed either <br>
+
+All other endpoints which is required by project are implemented.
+
 
 
 
