@@ -24,6 +24,8 @@ There are 2 entities User and Product. Update,get,delete,post can be performed e
 
 All other endpoints which is required by project are implemented.
 
+![](src/img/1.png)
+
 
 
 
