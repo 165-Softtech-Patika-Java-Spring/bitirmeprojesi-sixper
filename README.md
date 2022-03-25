@@ -14,7 +14,7 @@ All exceptions defined and handled in gen package. Exceptions encapsulated in a 
 
 There is a RestResponse model. Succes or fail all responses encapsulated with RestResponse model which is defined in gen package
 
-# API Documantation
+# API Documentation
 
 Swagger preferred
 
