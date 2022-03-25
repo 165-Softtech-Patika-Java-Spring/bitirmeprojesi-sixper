@@ -1,3 +1,15 @@
+
+#CONSTRAINTS
+
+username and password must be alpha numerical <br>
+username length must be 3-20 long
+password length must be 7-30 long
+name and surname fields can be empty but maximum length is 30
+
+
+
+
+
 # Bitirme Projesi
 
 Projenin Konusu:
